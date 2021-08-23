@@ -1,0 +1,2 @@
+rootProject.name = "Status_OnWallpaper_Api"
+include ':app'
